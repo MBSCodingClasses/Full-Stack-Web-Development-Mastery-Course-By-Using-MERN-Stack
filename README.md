@@ -174,7 +174,7 @@ This repository includes the following projects:
 Create a personal resume webpage to display essential details like name, skills, work experience, and education using HTML. This project helps you learn the basics of webpage structure and styling.
 
 - **Live Demo**: [View Resume Project](https://resumeprojectinhtml.netlify.app/)
-- **Code**: [View Code](https://github.com/mbscodingclasses/HTML-Full-Course-Mbs-Coding/tree/main/Project1)
+- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project1)
 
 ---
 
@@ -182,7 +182,7 @@ Create a personal resume webpage to display essential details like name, skills,
 This project covers how to create a multimedia-rich webpage, including images, audio, and videos. Learn how to use HTML tags to embed and control media on your website.
 
 - **Live Demo**: [View Media Project](https://mediaprojectinhtml.netlify.app/)
-- **Code**: [View Code](https://github.com/mbscodingclasses/HTML-Full-Course-Mbs-Coding/tree/main/Project2/Media%20Project)
+- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project2/Media%20Project)
 
 ---
 
@@ -190,7 +190,7 @@ This project covers how to create a multimedia-rich webpage, including images, a
 In this project, you will create a visual roadmap outlining the skills necessary for a frontend developer. The page will utilize semantic HTML elements like lists and headings to present the information clearly and concisely.
 
 - **Live Demo**: [View Frontend Roadmap Project](https://frontendroadmaphtmlproject.netlify.app/)
-- **Code**: [View Code](https://github.com/mbscodingclasses/HTML-Full-Course-Mbs-Coding/tree/main/Project3)
+- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project3)
 
 ---
 
@@ -198,6 +198,6 @@ In this project, you will create a visual roadmap outlining the skills necessary
 This tribute page honors the life and achievements of Dr. APJ Abdul Kalam, former President of India. The project focuses on displaying biographical details, images, and text using HTML.
 
 - **Live Demo**: [View Tribute Page](https://drapjabdulkalamtribute.netlify.app/)
-- **Code**: [View Code](https://github.com/mbscodingclasses/HTML-Full-Course-Mbs-Coding/tree/main/Project4)
+- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project4)
 
 ---
