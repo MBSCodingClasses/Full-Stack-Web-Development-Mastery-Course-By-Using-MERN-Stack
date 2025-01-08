@@ -124,7 +124,7 @@ npm start
 
 ### Course Playlist (Hindi)
 
-You can access the full **MERN Stack Web Development** course in Hindi on the [YouTube Playlist](https://www.youtube.com/playlist?list=PLzF9Dfh7MjQ_VeG1TUL2us-PuFf_t-Xvn).
+You can access the full **MERN Stack Web Development** course in Hindi on the [YouTube Playlist](https://www.youtube.com/playlist?list=PLqj8-TO8ccMb92cFMhMK5eqlE-krSkm7S).
 
 ### GitHub Repository
 
