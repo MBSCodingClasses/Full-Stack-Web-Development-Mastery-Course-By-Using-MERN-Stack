@@ -162,7 +162,7 @@ This repository is licensed under the **MIT License** - see the [LICENSE](LICENS
 
 If you have any questions or feedback, feel free to contact us:
 
-- **Mbs Coding**: [YouTube Channel](https://www.youtube.com/channel/UCXYZ)
+- **Mbs Coding**: [YouTube Channel](https://www.youtube.com/@mbscoding/videos)
 
 ---
 
