@@ -1,0 +1,14 @@
+Border Notes : 
+
+1. expected 2px likely comes from how the browser is rendering the borders, particularly related to device pixel ratio (DPR) and sub-pixel rendering.
+
+
+2 . it might be trying to scale the 2px border down to better fit the screen's resolution, which could cause it to render slightly thinner than expected, such as 1.6px instead of 2px.
+
+3 . ensure smoothness and sharpness when displaying borders and other UI elements. 
+
+
+4 . The 1.6px border you're seeing is likely a result of the device's high-DPI (dot per inch) display and how the browser handles sub-pixel rendering
+
+
+ 
