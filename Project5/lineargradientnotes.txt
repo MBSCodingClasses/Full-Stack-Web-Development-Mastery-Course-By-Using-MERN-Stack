@@ -1,0 +1,5 @@
+ background-color: #e2e5e8;
+  background-image: linear-gradient(98deg, #e2e5e8 0%, #ffffff 100%);
+  
+ /* The background color will be light gray (#e2e5e8).
+The linear gradient starts at the top-left of the element (0%) with the same light gray (#e2e5e8), then gradually transitions to white (#ffffff) at the bottom-right (100%) at a 98-degree angle. */
