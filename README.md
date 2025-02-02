@@ -1,3 +1,7 @@
+Apologies for the confusion! I'll fix the sequence of the projects and provide full links so they work properly. Here's the corrected version:
+
+---
+
 # Full Stack Web Development Mastery Course Using MERN Stack
 
 Welcome to the official repository for the **Full Stack Web Development Mastery Course** by **Mbs Coding**! 🎉 This repository contains all the resources, code examples, and project files associated with the course that teaches you how to build dynamic, modern web applications using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
@@ -168,10 +172,11 @@ If you have any questions or feedback, feel free to contact us:
 
 ## 📂 Projects Overview
 
-This repository includes the following projects:
+Here are my **HTML projects**, **CSS** projects, and others:
+----
 
 ### 1. **Resume Project in HTML**  
-Create a personal resume webpage to display essential details like name, skills, work experience, and education using HTML. This project helps you learn the basics of webpage structure and styling.
+Create a personal resume webpage to display essential details like name, skills, work experience, and education using HTML.
 
 - **Live Demo**: [View Resume Project](https://resumeprojectinhtml.netlify.app/)
 - **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project1)
@@ -201,3 +206,46 @@ This tribute page honors the life and achievements of Dr. APJ Abdul Kalam, forme
 - **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project4)
 
 ---
+
+### 5. **Flavors of India Recipe Website (HTML & CSS)**  
+This project is a recipe website showcasing various Indian dishes. It was built using **HTML & CSS**.
+
+- **Live Demo**: [Flavors of India Recipe Website](https://flavorsofindiabymbscodingcssproject.netlify.app/)
+- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project5)
+
+---
+
+### 6. **Project 6: 3 Card Projects (HTML & CSS)**  
+In this project, I created three different types of cards:
+
+- **QR Code Card**  
+  - **Live Demo**: [QR Code Card](https://qrcodecssprojectbymbscoding.netlify.app/)  
+  - **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project6)
+  
+- **Financial Card**  
+  - **Live Demo**: [Financial Card](https://financialcardcssprojectbymbscoding.netlify.app/)  
+  - **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project6)
+  
+- **Business Card (Advanced with Overlay Effect)**  
+  - **Live Demo**: [Business Card Advanced](https://businesscardcssprojectbymbscoding.netlify.app/)  
+  - **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project6)
+
+---
+
+### 7. **Mbs Coding Blogs Website (HTML, CSS Flexbox & Grid)**  
+This is a responsive blog website built with **HTML, CSS Flexbox, Grid & Media Queries**.
+
+- **Live Demo**: [Mbs Coding Blogs](https://mbscodingblogs.netlify.app/)
+- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project7)
+
+---
+
+### 8. **Mbs Educational Website (HTML, CSS Flexbox, Grid & Media Queries)**  
+This advanced project uses **Flexbox, Grid, and Media Queries** to create a responsive educational website.
+
+- **Live Demo**: [Mbs Educational Website](https://mbseducational.netlify.app/)
+- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project8)
+
+---
+
+This version should now have the correct project sequence and working links! Thank you for your patience!
