@@ -1,7 +1,3 @@
-Apologies for the confusion! I'll fix the sequence of the projects and provide full links so they work properly. Here's the corrected version:
-
----
-
 # Full Stack Web Development Mastery Course Using MERN Stack
 
 Welcome to the official repository for the **Full Stack Web Development Mastery Course** by **Mbs Coding**! 🎉 This repository contains all the resources, code examples, and project files associated with the course that teaches you how to build dynamic, modern web applications using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
@@ -248,4 +244,4 @@ This advanced project uses **Flexbox, Grid, and Media Queries** to create a resp
 
 ---
 
-This version should now have the correct project sequence and working links! Thank you for your patience!
+
