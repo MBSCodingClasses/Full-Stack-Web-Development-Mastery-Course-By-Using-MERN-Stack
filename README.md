@@ -203,9 +203,6 @@ This tribute page honors the life and achievements of Dr. APJ Abdul Kalam, forme
 
 ---
 
-
-Here's an updated version of your README file with the description added for the new challenge practice project at 4.1:
-
 ---
 
 ### 4.1. **Little Missalpavcenter Website HTML Practice/Challenge: 1**
