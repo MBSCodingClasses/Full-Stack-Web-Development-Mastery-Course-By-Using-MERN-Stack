@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Mbs Coding" />
+    <meta
+      name="description"
+      content="Contact Information for the Little MisalPav Shop"
+    />
+    <title>Contact Us - LMS</title>
+    <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Contact Us</h1>
+      <nav>
+        <ul>
+          <li>
+            <a href="/">Home</a>
+          </li>
+          <li>
+            <a href="/#about"
+              >About <abbr title="The Little MisalPav Shop">LMS</abbr></a
+            >
+          </li>
+          <li>
+            <a href="/#menu">Our Menu</a>
+          </li>
+          <li>
+            <a href="hours.html">Store Hours</a>
+          </li>
+        </ul>
+      </nav>
+
+      <figure>
+        <img
+          src="./img/MisalPav.png"
+          alt="MisalPav-Img"
+          title="We Love MisalPav!"
+          width="400px"
+          height="267px"
+        />
+        <figcaption>Delicious MisalPav</figcaption>
+      </figure>
+    </header>
+    <hr />
+    <main>
+      <!-- Our Content -->
+      <section>
+        <h2>Our Contact Form</h2>
+
+        <form action="https://httpbin.org/get" method="get">
+          <fieldset>
+            <legend>Send Us A Message</legend>
+            <p>
+              <label for="name">Name: </label>
+              <input
+                type="text"
+                name="name"
+                id="name"
+                placeholder="Your Name"
+                required
+              />
+            </p>
+            <p>
+              <label for="email">Email: </label>
+              <input
+                type="email"
+                name="email"
+                id="email"
+                placeholder="Your email"
+                required
+              />
+            </p>
+            <p>
+              <label for="message">Your Message:</label>
+              <br />
+              <textarea
+                name="message"
+                id="message"
+                cols="30"
+                rows="10"
+                placeholder="Type Your Message Here"
+              ></textarea>
+            </p>
+          </fieldset>
+          <button type="submit">Send</button>
+          <button type="reset">Reset</button>
+        </form>
+      </section>
+      <section>
+        <h2>Our Location</h2>
+        <address>
+          123 Spicy Street, Suite M Mumbai, Maharashtra 400001 India
+        </address>
+        <br />
+        <br />
+        Phone: <a href="tel: +91 22 3456 7890"> +91 22 3456 7890</a>
+        <br>
+        Email: <a href="email: contact@thelittlemisalshop.com"> contact@thelittlemisalshop.com</a>
+      </section>
+    </main>
+    <hr />
+    <footer>
+      <p>Copyright &copy; The Little MisalPav Shop</p>
+    </footer>
+  </body>
+</html>
