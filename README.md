@@ -175,7 +175,7 @@ Here are my **HTML projects**, **CSS** projects, and others:
 Create a personal resume webpage to display essential details like name, skills, work experience, and education using HTML.
 
 - **Live Demo**: [View Resume Project](https://resumeprojectinhtml.netlify.app/)
-- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project1)
+
 
 ---
 
@@ -183,15 +183,14 @@ Create a personal resume webpage to display essential details like name, skills,
 This project covers how to create a multimedia-rich webpage, including images, audio, and videos. Learn how to use HTML tags to embed and control media on your website.
 
 - **Live Demo**: [View Media Project](https://mediaprojectinhtml.netlify.app/)
-- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project2/Media%20Project)
-
+  
 ---
 
 ### 3. **Frontend Roadmap Project**  
 In this project, you will create a visual roadmap outlining the skills necessary for a frontend developer. The page will utilize semantic HTML elements like lists and headings to present the information clearly and concisely.
 
 - **Live Demo**: [View Frontend Roadmap Project](https://frontendroadmaphtmlproject.netlify.app/)
-- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project3)
+
 
 ---
 
@@ -199,7 +198,7 @@ In this project, you will create a visual roadmap outlining the skills necessary
 This tribute page honors the life and achievements of Dr. APJ Abdul Kalam, former President of India. The project focuses on displaying biographical details, images, and text using HTML.
 
 - **Live Demo**: [View Tribute Page](https://drapjabdulkalamtribute.netlify.app/)
-- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project4)
+
 
 ---
 
@@ -217,7 +216,6 @@ Key skills covered:
 By completing this challenge, you will practice key web development concepts and build confidence in creating static websites.
 
 - **Live Demo**: [View Little Missalpavcenter Website](https://littilemissalpavcenterbymbscoding.netlify.app/)
-- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/PRACTICE%20%26%20CHALLENGES/HTML%20Extra%20Project%201%20%20Littile%20MissalPav%20Center)
 
 ---
 
@@ -225,7 +223,6 @@ By completing this challenge, you will practice key web development concepts and
 This project is a recipe website showcasing various Indian dishes. It was built using **HTML & CSS**.
 
 - **Live Demo**: [Flavors of India Recipe Website](https://flavorsofindiabymbscodingcssproject.netlify.app/)
-- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project5)
 
 ---
 
@@ -234,15 +231,15 @@ In this project, I created three different types of cards:
 
 - **QR Code Card**  
   - **Live Demo**: [QR Code Card](https://qrcodecssprojectbymbscoding.netlify.app/)  
-  - **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project6)
+
   
 - **Financial Card**  
   - **Live Demo**: [Financial Card](https://financialcardcssprojectbymbscoding.netlify.app/)  
-  - **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project6)
+    
   
 - **Business Card (Advanced with Overlay Effect)**  
   - **Live Demo**: [Business Card Advanced](https://businesscardcssprojectbymbscoding.netlify.app/)  
-  - **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project6)
+ 
 
 ---
 
@@ -250,7 +247,7 @@ In this project, I created three different types of cards:
 This is a responsive blog website built with **HTML, CSS Flexbox, Grid & Media Queries**.
 
 - **Live Demo**: [Mbs Coding Blogs](https://mbscodingblogs.netlify.app/)
-- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project7)
+
 
 ---
 
@@ -258,7 +255,7 @@ This is a responsive blog website built with **HTML, CSS Flexbox, Grid & Media Q
 This advanced project uses **Flexbox, Grid, and Media Queries** to create a responsive educational website.
 
 - **Live Demo**: [Mbs Educational Website](https://mbseducational.netlify.app/)
-- **Code**: [View Code](https://github.com/mbscodingclasses/Full-Stack-Web-Development-Mastery-Course-By-Using-MERN-Stack/tree/main/Project8)
+
 
 ---
 
