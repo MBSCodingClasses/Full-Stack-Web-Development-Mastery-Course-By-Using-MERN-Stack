@@ -259,4 +259,28 @@ This advanced project uses **Flexbox, Grid, and Media Queries** to create a resp
 
 ---
 
+### Project 9: Login Page Using HTML & CSS  
+- **Live Demo**: [Login Page](https://loginpagebymbscoding.netlify.app/)
+
+---
+
+### Project 10: Sneaker Store Using HTML & CSS  
+- **Live Demo**: [Sneaker Store](https://sneakerstorebymbscoding.netlify.app/)
+
+---
+
+### Project 11: YT Premium Clone  
+- **Live Demo**: [YT Premium Clone](https://ytpremiumbymbscoding.netlify.app/)
+
+---
+
+### Project 12: WhatsApp Clone  
+- **Live Demo**: [WhatsApp Clone](https://watsappbymbscoding.netlify.app/)
+
+---
+
+### Project 13: E-Commerce Website  
+- **Live Demo**: [E-Commerce Website](https://ecommercebymbscoding.netlify.app/)
+
+---
 
