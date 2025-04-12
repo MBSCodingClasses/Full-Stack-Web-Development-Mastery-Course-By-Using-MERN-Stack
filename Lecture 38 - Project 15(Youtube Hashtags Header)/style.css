@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  /* color: white; */
+  font-family: cursive;
+}
+
+.hashtag-header {
+  background-color: #065fd4;
+  height: 300px;
+  color: white;
+  padding: 4rem;
+  background-image: url("./images/background.png");
+  background-repeat: no-repeat;
+  /* background-size: contain; */
+  background-size: 260px;
+  /* background-position: 100%; */
+  background-position-x: 100%;
+  background-position-y: -160px;
+}
+
+ .hashtag-header h1 {
+  margin: 0;
+  margin-bottom: 1rem;
+  font-size: 4rem;
+}
+
+.hashtag-header span {
+  font-size: 2rem;
+}
+
+.hashtag-header img{
+  width: 5rem;
+ height: 5rem;
+/* height: 10rem; */
+border-radius: 100%;
+border: 5px solid white;
+vertical-align: middle;
+}
+
+img + img{
+  margin-left: -1rem;
+}

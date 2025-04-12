@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --brand-color: #5128c6;
+}
+
+.switch {
+  height: 5px;
+  position: absolute;
+}
+
+.switch-container label {
+  border: 1px solid #e0e0e0;
+  width: 28px;
+  display: inline-block;
+  height: 14px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: #e0e0e0;
+  padding: 1px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+}
+
+.switch-circle {
+  height: 10px;
+  width: 10px;
+  background-color: white;
+  border-radius: 100%;
+  position: absolute;
+  left: 1px;
+  transition: all 0.25s ease-in-out;
+  box-shadow: 0 0 2px 0px rgba(0,0,0,0.2);
+}
+
+.switch-container label:hover {
+  border-color: var(--brand-color);
+}
+
+.switch:checked + label .switch-circle{
+  /* margin-left: 14px; */
+  left: 100%;
+  transform: translate(-100%);
+}
+
+.switch:checked + label {
+  border-color: var(--brand-color);
+  background-color: var(--brand-color);
+}
+
+.switch:focus + label,
+label:active {
+  border-color: var(--brand-color);
+  outline: 2px solid #cfbfff;
+}
