@@ -284,3 +284,78 @@ This advanced project uses **Flexbox, Grid, and Media Queries** to create a resp
 
 ---
 
+
+---
+
+### Project 14: QR Code Card (HTML & CSS)  
+- **Live Demo**: [QR Code Card](https://qrcodecardbymbscoding.netlify.app/)
+
+---
+
+### Project 15: YT Hashtags Header (HTML & CSS)  
+- **Live Demo**: [YT Hashtags Header](https://ythashtagsheaderbymbscoding.netlify.app/)
+
+---
+
+### Project 16: 3 Column Preview Card (HTML & CSS)  
+- **Live Demo**: [3 Column Preview Card](https://3columnpreviewcardbymbscoding.netlify.app/)
+
+---
+
+### Project 17: Grid Project (HTML & CSS)  
+- **Live Demo**: [Grid Project](https://gridprojectbymbscoding.netlify.app/)
+
+---
+
+### Project 18: Happy Diwali Wishes (HTML & CSS)  
+- **Live Demo**: [Happy Diwali Wishes](https://happydiwaliwishesbymbscoding.netlify.app/)
+
+---
+
+### Project 19: E-Commerce Card (HTML & CSS)  
+- **Live Demo**: [E-Commerce Card](https://ecommercecardbymbscoding.netlify.app/)
+
+---
+
+### Project 20: Google Search Clone (HTML & CSS)  
+- **Live Demo**: [Google Search Clone](https://googlesearchclonebymbscoding.netlify.app/)
+
+---
+
+### Project 21: Custom Checkbox (HTML & CSS)  
+- **Live Demo**: [Custom Checkbox](https://customcheckboxbymbscoding.netlify.app/)
+
+---
+
+### Project 22: Toggle Switch Button (HTML & CSS)  
+- **Live Demo**: [Toggle Switch Button](https://toggleswitchbuttonbymbscoding.netlify.app/)
+
+---
+
+### Project 23: Dropdown Menu (HTML & CSS)  
+- **Live Demo**: [Dropdown Menu](https://dropdownmenubymbscoding.netlify.app/)
+
+---
+
+### Project 24: Profile Card - MBS Coding  
+- **Live Demo**: [Profile Card](https://profilecardbymbscoding.netlify.app/)
+
+---
+
+### Project 25: Tooltips (HTML & CSS)  
+- **Live Demo**: [Tooltips](https://tooltipsbymbscoding.netlify.app/)
+
+---
+
+### Project 26: Grid Card (HTML & CSS)  
+- **Live Demo**: [Grid Card](https://gridcardbymbscoding.netlify.app/)
+
+---
+
+### Project 27: Responsive Nav Bar (HTML & CSS)  
+- **Live Demo**: [Responsive Nav Bar](https://responsivenavbarbymbscoding.netlify.app/)
+
+---
+
+
+
