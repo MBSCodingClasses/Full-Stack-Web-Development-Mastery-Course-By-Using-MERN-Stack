@@ -358,4 +358,58 @@ This advanced project uses **Flexbox, Grid, and Media Queries** to create a resp
 ---
 
 
+---
+
+### Project 28: Login & Registration Form 1 (HTML, CSS & JS)  
+- **Live Demo**: [Login & Registration Form 1](https://loginregistrationformbymbscoding.netlify.app/)
+
+---
+
+### Project 29: Job Application Form (HTML & CSS)  
+- **Live Demo**: [Job Application Form](https://jobapplicationformbymbscoding.netlify.app/)
+
+---
+
+### Project 30: Stunning Login & Registration Form with Toggle (HTML, CSS & JS)  
+- **Live Demo**: [Stunning Login & Registration Form](https://best-login-registration-formmbscoding.netlify.app/)
+
+---
+
+### Project 31: Tribute Website – Dr. APJ Abdul Kalam Sahab (HTML & CSS)  
+- **Live Demo**: [Tribute Website - Kalam Sahab](https://tribute-website-kalam-sahab-mbscoding.netlify.app/)
+
+---
+
+### Project 32: Parallax Website (HTML & CSS)  
+- **Live Demo**: [Parallax Website](https://parallax-website-by-mbscoding.netlify.app/)
+
+---
+
+### Project 33: Dev Landing Page (HTML & CSS)  
+- **Live Demo**: [Dev Landing Page](https://dev-landing-page-mbscoding.netlify.app/)
+
+---
+
+### Project 34: Restaurant Website (HTML & CSS)  
+- **Live Demo**: [Restaurant Website](https://restaurant-website-mbscoding.netlify.app/)
+
+---
+
+### Project 35: Music Website (HTML & CSS)  
+- **Live Demo**: [Music Website](https://music-website-mbscoding.netlify.app/)
+
+---
+
+### Project 36: YouTube UI Clone (HTML & CSS)  
+- **Live Demo**: [YouTube UI Clone](https://youtube-clone-mbscoding.netlify.app/)
+
+---
+
+### Project 37: Documentation Website (HTML & CSS)  
+- **Live Demo**: [Documentation Website](https://documentation-website-mbs-coding.netlify.app/)
+
+---
+
+
+
 
