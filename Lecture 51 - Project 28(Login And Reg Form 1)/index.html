@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login and Registration Form</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="form-box">
+        <h1 class="title">Sign Up</h1>
+        <div class="underline"></div>
+        <form class="form">
+          <div class="input-group">
+            <div class="input-field namefield">
+              <i class="fa-solid fa-user"></i>
+              <input type="text" placeholder="Name" />
+            </div>
+            <div class="input-field">
+              <i class="fa-solid fa-envelope"></i>
+              <input type="email" placeholder="Email" />
+            </div>
+            <div class="input-field">
+              <i class="fa-solid fa-key"></i>
+              <input type="password" placeholder="Password" />
+            </div>
+            <p>
+              <span class="text">Password Suggestions</span>
+              <a href="#">Click Here!</a>
+            </p>
+          </div>
+
+          <div class="btn-field">
+            <button type="submit" class="signupbtn">Sign up</button>
+            <button type="submit" class="disable signinbtn">Sign in</button>
+          </div>
+        </form>
+      </div>
+    </div>
+    <script>
+      let signUpBtn = document.querySelector(".signupbtn");
+
+      let signInBtn = document.querySelector(".signinbtn");
+
+      let nameField = document.querySelector(".namefield");
+
+      let title = document.querySelector(".title");
+
+      let underline = document.querySelector(".underline");
+
+      let text = document.querySelector(".text");
+
+      const form = document.querySelector(".form");
+
+      signInBtn.addEventListener("click", () => {
+        nameField.style.maxHeight = "0";
+
+        title.innerHTML = "Sign In";
+
+        text.innerHTML = "Enter Correct Password";
+
+        signUpBtn.classList.add("disable");
+
+        signInBtn.classList.remove("disable");
+
+        underline.style.transform = "translateX(35px)";
+      });
+
+      signUpBtn.addEventListener("click", () => {
+        nameField.style.maxHeight = "60px";
+
+        title.innerHTML = "Sign Up";
+
+        text.innerHTML = "Password Suggestions";
+
+        signUpBtn.classList.remove("disable");
+
+        signInBtn.classList.add("disable");
+
+        underline.style.transform = "translateX(0)";
+      });
+
+      form.addEventListener("submit", function (e) {
+        e.preventDefault();
+
+        alert("Form Submitted Successfully (But page reload nahi huva)");
+      });
+    </script>
+  </body>
+</html>
