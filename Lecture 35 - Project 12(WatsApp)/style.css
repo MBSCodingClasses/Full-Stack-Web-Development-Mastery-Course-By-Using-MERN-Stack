@@ -2,8 +2,12 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
   font-family: "Helvetica Neue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+  overflow-x: hidden;
 }
 
 .container {
@@ -22,6 +26,10 @@
   padding: 20px 40px;
   position: sticky;
   top: 0;
+  background-color: #fcf5c8;
+  z-index: 30;
+  height: fit-content;
+  backdrop-filter: blur(2px);
 }
 
 .Features {
@@ -598,6 +606,12 @@ select {
     justify-content: space-around;
     align-items: center;
     margin-top: 10px;
+    position: sticky;
+    top: 0;
+    background-color: #fcf5c8;
+    z-index: 30;
+    height: fit-content;
+    backdrop-filter: blur(2px);
   }
   .btn2 {
     background-color: #25d366;
