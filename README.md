@@ -79,7 +79,9 @@ npm start
 ### 🔹 HTML + CSS Projects
 
 6. [Flavors of India Recipe Website](https://flavorsofindiabymbscodingcssproject.netlify.app/)
-7. [3 Card Projects](https://financialcardcssprojectbymbscoding.netlify.app/)
+7.1. [Finance Card](https://financialcardcssprojectbymbscoding.netlify.app/)
+7.2. [QR Card](https://qrcodecssprojectbymbscoding.netlify.app/)
+7.3. [Business Card](https://businesscardcssprojectbymbscoding.netlify.app/)
 8. [MBS Coding Blogs Website](https://mbscodingblogs.netlify.app/)
 9. [MBS Educational Website](https://mbseducational.netlify.app/)
 10. [Login Page](https://loginpagebymbscoding.netlify.app/)
